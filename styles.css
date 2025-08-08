@@ -203,3 +203,14 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
+pre code {
+  display: block;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 1rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+  font-family: Consolas, monospace;
+  border-left: 4px solid #007acc;
+  border-radius: 5px;
+}

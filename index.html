@@ -85,11 +85,20 @@
       <a href="https://app.powerbi.com/groups/me/dashboards/c213519d-9432-406c-8e00-db3adfe1274d?experience=power-bi" target="_blank">Open Dashboard</a>
     </div>
 
-    <div class="project">
-      <h3>🧠 SQL Data Analysis Snippets</h3>
-      <p>Efficient SQL queries used for business analysis and reporting.</p>
-      <a href="https://github.com/ahehir101/sql-snippets" target="_blank">View SQL Code</a>
-    </div>
+  <div class="project">
+    <h3>🧠 SQL Data Analysis Showcase</h3>
+    <p>This section demonstrates advanced SQL queries written to clean, transform, and analyze structured data   sets.</p>
+
+    <pre><code class="sql">
+  -- Example: Aggregate sales by region and year
+  SELECT region, YEAR(sale_date) AS year, SUM(sales_amount) AS total_sales
+  FROM sales_data
+  WHERE sale_date BETWEEN '2023-01-01' AND '2023-12-31'
+  GROUP BY region, YEAR(sale_date)
+  ORDER BY total_sales DESC;
+    </code></pre>
+  </div>
+
 
     <div class="project">
       <h3>📈 Excel Dashboard Screenshot</h3>
