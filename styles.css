@@ -77,6 +77,15 @@ body {
   font-size: 0.95rem;
 }
 
+/* Blog Section */
+.blog-section {
+  max-width: 600px;
+  margin: 3rem auto;
+  padding: 2rem 1rem;
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: center;
+
 /* Contact Section */
 .contact-section {
   max-width: 600px;
