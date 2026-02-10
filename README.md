@@ -32,7 +32,7 @@ Projects I’ve built or contributed to, including:
 - 🧠 SQL code snippets
 - 📈 Excel dashboard screenshot
 
-### 🔹 Section 4 – Contact
+### 🔹 Section 4 – Blog
 Blog posts
 
 ### 🔹 Section 5 – Contact
