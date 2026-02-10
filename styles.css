@@ -87,6 +87,11 @@ body {
   text-align: center;
 }
 
+.blog-section h2 {
+  color: #007acc;
+  font-size: 2rem;
+}
+
 /* Contact Section */
 .contact-section {
   max-width: 600px;
