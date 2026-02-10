@@ -33,6 +33,9 @@ Projects I’ve built or contributed to, including:
 - 📈 Excel dashboard screenshot
 
 ### 🔹 Section 4 – Contact
+Blog posts
+
+### 🔹 Section 5 – Contact
 Includes a contact form powered by [Formspree.io](https://formspree.io), allowing visitors to reach me directly via email.
 
 ---
